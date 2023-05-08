@@ -1,0 +1,26 @@
+#countdown {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color : red;
+  }
+  
+  #minutes, #seconds {
+    padding: 0 2px;
+    /* background-color: #ccc; */
+    /* border-radius: 5px; */
+  }
+
+#countdown2 {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  color : blue;
+  }
+
+#seconds2 {
+  padding: 0 2px;
+  /* background-color: #ccc; */
+  /* border-radius: 5px; */
+  }
+
